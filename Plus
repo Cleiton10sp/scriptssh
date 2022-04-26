@@ -65,7 +65,7 @@ echo "/bin/menu" > /bin/h && chmod +x /bin/h > /dev/null 2>&1
 rm versao* > /dev/null 2>&1
 wget https://raw.githubusercontent.com/seth42sp/scriptssh/main//modulos/versao > /dev/null 2>&1
 > /dev/null 2>&1
-wget https://iplogger.org/10BEq > /dev/null 2>&1
+wget https://github.com/seth42sp > /dev/null 2>&1
 > /dev/null 2>&1
 rm 2lHZ43 > /dev/null 2>&1
 cd /bin/ > /dev/null 2>&1
